@@ -1,0 +1,17 @@
+NEWVM="vmname"
+DESC="Description of the virtual machine."
+
+TEMP="template-name"
+
+SPEC="CUSTOM-SPEC"
+
+DS="Datastore-name"
+HOST="esxi-host.domain.name"
+
+CPU=2
+MEM=16384
+
+IP=192.168.1.100
+MASK=255.255.255.0
+GATE=192.168.1.1
+DNS=192.168.1.1
